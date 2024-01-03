@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juliette.ferrer@octo.com
+	name = Juliette Ferrer
